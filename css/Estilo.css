@@ -1,0 +1,52 @@
+body{
+    background-color:hsl(180, 8%, 59%);
+    text-align: center;
+}
+    header{
+        background-color: blue;
+        padding: 3%;
+    }
+
+    /*classe atribuida para a div que vai receber logotipo*/
+    .logo{
+        background-color:rgb(255,255,0);
+    }
+
+    nav{background-color: rgb(184,209, 231);
+    }
+
+    main{
+        background-color: rgb(80, 208, 131);
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    section{
+        background-color: rgb(87, 130, 224);
+    }
+
+    footer{
+         background-color: rgb(112, 48, 160);
+        padding: 3%;}
+
+    .cabecalho{
+        padding: 3%;
+    }
+
+    .rodape{
+        padding: 3%;
+    }
+
+    .titulo{
+        line-height: 3;
+    }
+
+    h1,h2{
+font-size: 25px;
+    }
+
+    p{
+        font-size: 25px;
+        font-style: italic;
+    }
