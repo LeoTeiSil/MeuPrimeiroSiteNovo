@@ -51,3 +51,7 @@ font-size: 25px;
         line-height: 1.0cm;
         font-style: italic;
     }
+
+    .logo img{
+        width: 35%;
+    }
